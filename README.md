@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shahariat Hossen Shuvo</h1>
-<h3 align="center">💻 Passionate about Competitive Programming and Web Development.</h3>
+<h3 align="center">a B.Sc (Hons) CSE student at International Islamic University Chittagong.<br>
+💻 Passionate about Competitive Programming and Web Development.</h3>
 
 <br><br>
 <img align="right" alt="Coding" width="324" height="405" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHR1cW1qaDQ3NmR0MDRvMmJkbmFvc2VhbnU0NzY2amR3MmUyajQyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wp0PWXANZck7BHr0TF/giphy.gif">
