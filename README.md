@@ -83,17 +83,11 @@ My goal is to become a **production-level backend/software engineer** with stron
 
 ## 📊 GitHub Overview
 
-<p align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashuvo" height="170"/>
-
-</p>
-
-<p align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shashuvo&theme=tokyonight" />
-
-</p>
+- 🔭 Currently working on improving full-stack development skills
+- 🌱 Learning system design, backend architecture, and databases
+- 🧠 Solving DSA problems regularly
+- 💻 Building real-world backend projects
+- 🚀 Goal: Become a production-level software engineer
 
 ---
 
