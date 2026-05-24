@@ -52,7 +52,7 @@ My goal is to become a **production-level backend/software engineer** with stron
 
 ## 📚 Currently Learning
 
-```txt
+
 🗄 PostgreSQL
 → Advanced SQL Queries
 → Joins & Relationships
