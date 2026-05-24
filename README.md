@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I am a **Computer Science and Engineering student @IIUC** focused on becoming a strong **software engineer**.
+I am a **Computer Science and Engineering student at IIUC** focused on becoming a strong **software engineer**.
 
 I am currently building strong fundamentals in:
 - ⚙ Backend development
