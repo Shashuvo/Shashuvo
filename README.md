@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm MD. Shahariat Hossen Shuvo</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer+in+Progress;Frontend+Developer+in+Progress;PostgreSQL+Learner;CSE+Student;Problem+Solver+%26+Builder;Graphics+Designer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer+in+Progress;Frontend+Developer;CSE+Student;Problem+Solver+%26+Builder;Graphics+Designer" />
 </p>
 
 ---
