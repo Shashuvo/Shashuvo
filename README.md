@@ -1,53 +1,10 @@
-<h1 align="center">Shahariat Hossen Shuvo</h1>
 
-<h3 align="center">
-Backend Developer (Learning) | PostgreSQL Enthusiast | CSE Student
-</h3>
+## 🚀 Next Learning Roadmap
 
-<p align="center">
-International Islamic University Chittagong
-</p>
-
----
-
-## 🚀 About Me
-
-I am a Computer Science student focused on building strong fundamentals in **backend development and database systems**.
-
-Currently, I am learning and improving in:
-- Backend development using Node.js and Express.js
-- PostgreSQL and relational database systems
-- API design and backend architecture basics
-- Problem solving and data structures
-
-My goal is to become a **strong backend/software engineer** with solid system and database knowledge.
-
----
-
-## 🧠 Skills
-
-### ⚙ Backend
-- Node.js
-- Express.js
-- REST APIs
-- Middleware concepts
-- JWT basics
-
-### 🗄 Databases
-- PostgreSQL (Learning)
-- SQL fundamentals
-- Joins and relationships
-- Basic schema design
-- Transactions (intro level)
-
-### 🧠 CS Fundamentals
-- Data Structures & Algorithms (practice level)
-- Problem solving
-
-### 🔧 Tools
-- Git & GitHub
-- VS Code
-- Postman
+- 📦 Next.js → Full-stack development  
+- 🐳 Docker → Containerization & deployment  
+- ☁ AWS → Cloud infrastructure & hosting  
+- 💳 Stripe → Payment gateway integration  
 
 ---
 
@@ -60,11 +17,15 @@ My goal is to become a **strong backend/software engineer** with solid system an
 
 ---
 
-## 🔥 Activity
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Shashuvo&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashuvo&theme=tokyo-night"/>
@@ -74,19 +35,35 @@ My goal is to become a **strong backend/software engineer** with solid system an
 
 ## 🎯 Current Focus
 
-- Strengthening backend fundamentals
-- Learning PostgreSQL deeply
-- Improving SQL query skills
-- Practicing problem solving
+- 🗄 PostgreSQL mastery (deep SQL understanding)
+- ⚙ Backend development (Node.js + Express)
+- 🌐 REST API design
+- 🧠 Problem solving & DSA practice
+
+---
+
+## 🎨 Graphics Designing Side Skill
+
+I also work on **graphics designing**, which helps me:
+
+- Understand visual structure  
+- Improve UI thinking (even without frontend focus)  
+- Create posters, thumbnails, and digital visuals  
 
 ---
 
 ## 📫 Contact
 
 - 📧 Email: shahariat2810@gmail.com  
-- 🌐 Portfolio: Not available yet  
-- 💼 Open to learning opportunities & internships  
+- 💼 Open to internships & backend opportunities  
+- 🌐 Portfolio: Coming soon  
 
 ---
 
-<h3 align="center">“Consistency builds real engineering skill.”</h3>
+## ✨ Philosophy
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Consistency+beats+talent;Build+small%2C+learn+deep;Focus+on+fundamentals+first" />
+</p>
+
+<h3 align="center">🚀 Keep building. Keep learning. Keep improving.</h3>
