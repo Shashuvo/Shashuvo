@@ -41,12 +41,12 @@ My goal is to become a **production-level backend/software engineer** with stron
 
 ### 🎨 Design Skills
 <p>
-<img src="https://skillicons.dev/icons?i=figma,photoshop" />
+<img src="https://skillicons.dev/icons?i=figma,canva" />
 </p>
 
 ### 🔧 Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
