@@ -1,4 +1,76 @@
 
+<h1 align="center">Hi 👋, I'm Shahariat Hossen Shuvo</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer+in+Progress;PostgreSQL+Learner;CSE+Student;Problem+Solver+%26+Builder;Graphics+Designer" />
+</p>
+
+---
+
+## 🚀 About Me
+
+I am a **Computer Science and Engineering student** focused on becoming a strong **software engineer**.
+
+I am currently building strong fundamentals in:
+- ⚙ Backend development
+- 🗄 Database systems
+- 🧠 Problem solving
+- 🎨 Graphics designing
+
+My goal is to become a **production-level backend/software engineer** with strong system design and database skills.
+
+---
+
+## 🧠 Skills
+
+### 💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,typescript" />
+</p>
+
+### ⚙ Backend & Web
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄 Databases (Current Focus)
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" />
+</p>
+
+### 🎨 Design Skills
+<p>
+<img src="https://skillicons.dev/icons?i=figma,photoshop" />
+</p>
+
+### 🔧 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+```txt
+🗄 PostgreSQL
+→ Advanced SQL Queries
+→ Joins & Relationships
+→ Indexing & Optimization
+→ Schema Design
+
+⚙ Backend Development
+→ Node.js & Express.js
+→ REST API Design
+→ Authentication & JWT
+
+🧠 CS Fundamentals
+→ Data Structures
+→ Problem Solving
+
+---
+
+
 ## 🚀 Next Learning Roadmap
 
 - 📦 Next.js → Full-stack development  
