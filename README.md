@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Shahariat Hossen Shuvo</h1>
+<h1 align="center">Hi 👋, I'm MD. Shahariat Hossen Shuvo</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer+in+Progress;Frontend+Developer+in+Progress;PostgreSQL+Learner;CSE+Student;Problem+Solver+%26+Builder;Graphics+Designer" />
@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I am a **Computer Science and Engineering student** focused on becoming a strong **software engineer**.
+I am a **Computer Science and Engineering student @IIUC** focused on becoming a strong **software engineer**.
 
 I am currently building strong fundamentals in:
 - ⚙ Backend development
