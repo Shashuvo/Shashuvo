@@ -129,7 +129,7 @@ I also work on **graphics designing**, which helps me:
 
 - 📧 Email: shahariat2810@gmail.com  
 - 💼 Open to internships & backend opportunities  
-- 🌐 Portfolio: Coming soon  
+- 🌐 Portfolio: (https://shahariat.netlify.app/) 
 
 ---
 
