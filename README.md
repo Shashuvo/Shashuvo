@@ -29,9 +29,9 @@ My goal is to become a **production-level backend/software engineer** with stron
 <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,typescript" />
 </p>
 
-### ⚙ Backend & MERN Stack
+### ⚙ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
 </p>
 
 ### 🗄 Databases (Current Focus)
