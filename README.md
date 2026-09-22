@@ -26,7 +26,7 @@ My goal is to become a **production-level backend/software engineer** with stron
 
 ### 💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,typescript" />
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,typescript,nextjs,react" />
 </p>
 
 ### ⚙ Backend
