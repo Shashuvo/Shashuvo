@@ -120,7 +120,7 @@ My goal is to become a **production-level backend/software engineer** with stron
 
 I also work on **graphics designing**, which helps me:
 
-- Understand visual structure   
+- Understand visual structure & create modern interfaces  
 - Create posters, logos, thumbnails, and digital visuals  
 
 ---
